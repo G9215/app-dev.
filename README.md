@@ -1,5 +1,5 @@
 # app-dev.
-My Favorite Series
+# My Favorite Series
 Wednesday
 About the Series
 Wednesday is a supernatural mystery comedy series based on the character Wednesday Addams from The Addams Family. The story follows Wednesday as she studies at Nevermore Academy while solving mysterious crimes and uncovering dark secrets.
@@ -26,5 +26,3 @@ Wednesday_Addams()
 Series Poster
 Wednesday Poster
 
-More Information
-Watch Wednesday on Netflix
